@@ -1,7 +1,7 @@
 bliss_dict_auto
 ===============
 
-files for the
+scripts for the
 [Blisssymbolics (Blissymbols / Semantography) - Community – Google+][1]
 
 
