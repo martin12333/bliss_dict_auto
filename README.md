@@ -6,13 +6,12 @@ scripts to change the format of the Blissymbolics-to-English dictionary
 for the
 [Blisssymbolics (Blissymbols / Semantography) - Community – Google+][1]
 
-Output-file 
+Output-file:
 * version 03 is usable in Vim, EVim
 * 04 ... Emacs
 * 05 ... Geany
 
 All the files
-  under this folder
 are tested
 and are shared
 in the hope
