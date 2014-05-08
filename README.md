@@ -1,7 +1,9 @@
 bliss_dict_auto
 ===============
 
-scripts for the
+scripts to change the format of the Blissymbolics-to-English dictionary 
+
+for the
 [Blisssymbolics (Blissymbols / Semantography) - Community – Google+][1]
 
 
