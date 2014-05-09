@@ -1,6 +1,8 @@
 bliss_dict_auto
 ===============
 
+![Alt Text](https://raw.githubusercontent.com/martin12333/bliss_dict_auto/master/Screenshot%20-%2031.3.2014%20-%2016-18-26.png)
+
 scripts to change the format of the Blissymbolics-to-English dictionary 
 
 for the
