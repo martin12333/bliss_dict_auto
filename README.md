@@ -8,6 +8,13 @@ scripts to change the format of the Blissymbolics-to-English dictionary
 for the
 [Blisssymbolics (Blissymbols / Semantography) - Community – Google+][1]
 
+2016 May 12th 
+*All my text files with bliss-symbol Unicode characters are wrong now!*
+Today I noticed that the font at the location http://dev.conceptcoding.org/ooo/content.html has *different code points* than the font I used since 2 years ago. (Old font … )
+
+That means : All my intermediate and output files published here are  wrong now. 
+
+2014
 Output-file:
 * version 03 is usable in Vim, EVim
 * 04 ... Emacs
