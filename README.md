@@ -30,4 +30,7 @@ without even the implied warranty
 of MERCHANTABILITY
 or FITNESS FOR A PARTICULAR PURPOSE.
 
+Note 1: Please respect that the data at http://www.symbolnet.org/bliss/blissymbol_resources.html are openly shared with all interested parties under the conditions of the free “copyleft” CreativeCommons-BY-SA license. Any proprietary use will have to be discussed with BCI (Blissymbolics Communication International) - see: BCI Licensing Conditions. http://www.symbolnet.org/bliss/blissymbol_resources.html
+
+
 [1]: https://plus.google.com/u/0/communities/115019056556526847375
